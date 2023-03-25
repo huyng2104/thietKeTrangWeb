@@ -1,0 +1,21 @@
+.box{
+    background-color: aqua;
+    
+    display: flex;
+    align-items: center;
+    height: 300px;
+    
+    /* justify-content: space-around;
+    /* cach trai 1 cah giua 2 */
+    /* flex-direction: column; */
+    /* cai j viet truoc len truoc*/
+    /* flex-wrap: wrap;
+    quá nhiều phần tử trên 1 dòng */ 
+}
+.item1{
+    
+
+}
+.item2{
+  
+}

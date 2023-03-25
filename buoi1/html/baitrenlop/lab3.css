@@ -1,0 +1,33 @@
+.box1{
+    background-color:  #A88F0C;
+    width: 1500px;
+    height: 828px;
+}
+h1{
+    color: #FFFFFF;
+    width: 185px;
+    height: 48px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+}
+.text>input{
+    width: 400px;
+    height: 60px;
+}
+select{
+    width:400px;
+    height: 60px;
+}
+label{
+    color: #FFFFFF;
+}
+button{
+    width: 180px;
+    height: 60px;
+    background-color: black;
+    color: #FFFFFF;
+    border-radius: 30px;
+}

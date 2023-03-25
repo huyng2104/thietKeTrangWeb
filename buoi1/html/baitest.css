@@ -1,0 +1,150 @@
+.boxall{
+    width: 1440px;
+}
+.boxname {
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    padding-left: 30px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: black;
+}
+
+.box2 {
+    width: 1440px;
+    height: 600px;
+    background-image: url(/buoi1/images/image\ 45.png);
+}
+
+.box3 {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: black;
+}
+
+.text1 {
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #848484;
+}
+
+.img1 {
+    margin-left: 20px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: left;
+}
+
+.textall {
+    align-items: center;
+    margin-left: 20px;
+}
+
+h3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.text2 {
+    color: #848484;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.box5 {
+    text-align: center;
+    background-color: black;
+    width: 1440px;
+    height: 64px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.text3 {
+    color: aliceblue;
+    padding-top: 20px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-transform: uppercase;
+}
+
+.box6 {
+    background-image: url(/buoi1/images/image\ 48.jpg);
+    width: 1408px;
+    height: 792px;
+    margin-top: 64px;
+    margin-left: 30px;
+}
+
+.box7 {
+    margin-top: 20px;
+    padding: 0px 16px;
+    display: flex;
+    width: 1440px;
+    height: 100px;
+    background-color: #000000;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.text4 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: aliceblue;
+}
+input{
+    background-color: transparent;
+    width: 350px;
+    height: 30px;
+    border: 2px solid#FFB800;
+}
+button{
+    margin-left: 10px;
+    background-color: #FFB800;
+    color: azure;
+    width: 80px;
+    height: 38px;
+    border-radius: 10px;
+}
+::-webkit-input-placeholder{
+    color: #fff ;
+}

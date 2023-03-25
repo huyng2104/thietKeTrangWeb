@@ -1,0 +1,76 @@
+.all{
+    text-align: center;
+}
+h4{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 29px;
+}
+.title>p{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+    
+}
+.title>h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 39px;
+}
+label{
+    width: 400px;
+    height: 50px;
+    
+    ont-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+
+}
+input{
+    width: 400px;
+    height: 40px;
+    margin-top: 10px;
+}
+.button1{
+    margin-top: 30px;
+    width: 400px;
+    height: 40px;
+    background-color: #37A9CD;
+    color: #FFFFFF;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+
+}
+.button2{
+    width: 400px;
+    height: 40px;
+    background-color: #2D3748;
+    color: #FFFFFF;
+    margin-top: 20px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+
+}
+.register>p{
+    color: #616161;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+    
+}
